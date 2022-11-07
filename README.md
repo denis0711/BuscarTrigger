@@ -1,0 +1,2 @@
+# BuscarTrigger
+buscar Trigger
