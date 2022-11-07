@@ -5,7 +5,7 @@ buscar Trigger
 
 
 
-``sql
+````sql
 SELECT
      sysobjects.name AS NomeDaTrigger 
     ,USER_NAME(sysobjects.uid) AS OwnerDaTrigger 
